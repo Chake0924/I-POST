@@ -1,5 +1,6 @@
 import io
 from PIL import Image
+import base64
 
 def img_to_binary(image_str):
 #バイナリにしたい画像を読み込み
